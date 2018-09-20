@@ -1,50 +1,8 @@
 {
   "info": {
-    "_postman_id": "56c04660-dc73-41ad-9498-0c5e6f0299cf",
+    "_postman_id": "1eb1a387-cba0-4522-b5a3-4d7b35d4ffad",
     "name": "abc",
     "schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
   },
-  "item": [
-    {
-      "_postman_id": "ea2cedeb-c063-48ac-9eac-6921ea5db299",
-      "name": "integration-test",
-      "request": {
-        "method": "DELETE",
-        "header": [],
-        "body": {
-          "mode": "raw",
-          "raw": ""
-        },
-        "url": {
-          "raw": "{{sync_url}}/api/integration/668?user_id=8770&access_token=ad355f539645602ebbd419736b5862a29e47d1549f62aeed8041baf26f535b02a834e12b493d8cd690ad0aa132df63df020c4a6145db208bbadd0fd480c98151&server_secret=LyhkwkU4mEGv8TG1OAKNsgbXM8OW1RASobrBffcN18gADuBmH86yq6mvn50vVSmCwj8M8zqlWoSJlVaoJ1DM5xNwA4YAhYPumhed",
-          "host": [
-            "{{sync_url}}"
-          ],
-          "path": [
-            "api",
-            "integration",
-            "668"
-          ],
-          "query": [
-            {
-              "key": "user_id",
-              "value": "8770",
-              "equals": true
-            },
-            {
-              "key": "access_token",
-              "value": "ad355f539645602ebbd419736b5862a29e47d1549f62aeed8041baf26f535b02a834e12b493d8cd690ad0aa132df63df020c4a6145db208bbadd0fd480c98151",
-              "equals": true
-            },
-            {
-              "key": "server_secret",
-              "value": "LyhkwkU4mEGv8TG1OAKNsgbXM8OW1RASobrBffcN18gADuBmH86yq6mvn50vVSmCwj8M8zqlWoSJlVaoJ1DM5xNwA4YAhYPumhed",
-              "equals": true
-            }
-          ]
-        }
-      },
-      "response": []
-    }
-  ]
+  "item": []
 }
